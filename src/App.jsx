@@ -1,14 +1,11 @@
 // IMPORT
-import Header from './components/Header/Header';
-import Main from './components/Main/Main';
-import Footer from './components/Footer/Footer';
+
+import From from './components/BlogFrom';
 
 const App = () => {
   return (
     <>
-      <Header />
-      <Main />
-      <Footer />
+      <From />
     </>
   );
 };
